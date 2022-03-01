@@ -1,0 +1,77 @@
+header img{
+    width: 200px;
+    height: 74px;
+}
+.header--title-container h1{
+    font-size: 3rem;
+    line-height: 3.6rem;
+}
+.header--title-container p{
+    font-size: 1.6rem;
+    line-height: 2.4rem;
+}
+.header--title-container .header--button{
+    width: 300px;
+    height:50px;
+    font-size: 1.6rem;
+    font-weight: bold;
+    left: calc(50% - 150px);
+}
+.main-exchange-container .background-img{
+    width: 220px;
+    height: 220px;
+}
+.main-exchange-container h2{
+    margin-bottom: 30px;
+    font-size: 3rem;
+    font-weight: bold;
+    line-height: 3.2rem;
+    color: var(--black);
+}
+.main-exchange-container p{
+    font-size: 1.6rem;
+    line-height: 1.8rem;
+}
+.product-detail-title h2{
+    font-size: 3rem;
+    line-height: 3.2rem;
+} 
+.product-detail-title p{
+    font-size:1.6rem;
+    line-height: 1.8rem;
+}
+.product-card-title{
+    font-size:2rem;
+    line-height: 2rem;
+}
+.plans-title h2{
+    font-size: 3rem;
+    line-height:3.2rem;
+}
+.plans-title p{
+    font-size: 1.6rem;
+    line-height: 1.8rem;
+}
+.plans-container-slider{
+    justify-content: center;
+}
+.main-card-content{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 930px;
+    margin: 0 auto;
+}
+.footer-list{
+    display: flex;
+    flex-direction: row;    
+}
+.footer-list li{
+    margin: 0 20px;
+    font-size: 2rem;
+}
+.bitcoin-img-container h2{
+    font-size: 4rem;
+}
+.plans-container-card:hover{
+ width: 100%;
+}
